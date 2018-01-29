@@ -250,7 +250,7 @@
         "sell_LIQUID_TOKEN": "Sell %(LIQUID_TOKEN)s",
 ,
         "stolen_account_recovery": "Stolen Accounts Recovery",
-        "change_account_password": "Change Account Password",
+        "change_account_password": "Bytt konto passord",
         "witnesses": "Witnesses",
         "vote_for_witnesses": "Vote for Witnesses",
         "privacy_policy": "Privacy Policy",
